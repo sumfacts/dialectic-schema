@@ -18,11 +18,11 @@ What we need is a clear way of defining arguments that can then be shared, forke
 ## Benefits
 
 1. less noise - clear and simple arguments that stay purely on-topic
-2. sharing - an argument can be encapsulated in a file and shared freely
+2. shareable - an argument can be encapsulated in a file and shared freely
 4. collaboration - multiple people can asynchronously contribute to the same argument
 3. versioning - arguments can be improved and refined over time
-5. finding holes in arguments - see where an argument falls flat and where you are missing some pieces of the puzzle
-6. exposing logical flaws more easily - ad hominems, hate-speech, confirmation bias, etc...
+5. find holes in arguments - see where an argument falls flat and where you are missing some pieces of the puzzle
+6. expose logical flaws more easily - ad hominems, hate-speech, confirmation bias, etc...
 
 ## Potential applications of use
 
@@ -39,7 +39,7 @@ What we need is a clear way of defining arguments that can then be shared, forke
 {
   type: 'argument',
   value: 'Aliens exist',
-  thesisArguments: [
+  for: [
     {
       type: 'argument',
       value: 'There was a crash at Roswell',
@@ -47,7 +47,7 @@ What we need is a clear way of defining arguments that can then be shared, forke
     },
     ...
   ],
-  antithesisArguments: [
+  against: [
     {
       type: 'argument',
       value: 'There is no official evidence for aliens.',
