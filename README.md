@@ -5,7 +5,7 @@ A specification for representing arguments in a standardized format.
 > Dialectic is a method of examining and discussing opposing ideas in order to find the truth."
 > -[ Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/dialectic)
 
-**Project status**: proof of concept
+**Project status**: [proof of concept](https://github.com/sumfacts/dialectic-schema/issues/1)
 
 ## Motivation
 
