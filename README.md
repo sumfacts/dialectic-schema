@@ -32,6 +32,7 @@ What we need is a clear way of defining arguments that can then be shared, forke
 - scientific theses - formalizing the format of academic and scientific papers
 - conspiracies - legitimizing conspiracy theories and assessing their truthfulness
 - knowledge sharing - over time building a body of knowledge that future generations can digest easily and learn from
+- legal - cases can be built and put forward in a standardized way
 
 ## Proof of concept
 
