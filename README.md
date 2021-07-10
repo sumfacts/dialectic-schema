@@ -31,7 +31,7 @@ What we need is a clear way of defining arguments that can then be shared, forke
 - fact-checking - analyzing arguments made by others and holding them accountable
 - scientific theses - formalizing the format of academic and scientific papers
 - conspiracies - legitimizing theories and assessing their truthfulness
-- knowledge sharing - over time building a body of knowledge that future generations can digest easily and learn from
+- knowledge sharing - over time building a refined body of knowledge that future generations can learn from
 - legal - cases can be built and put forward in a standardized way
 
 ## Example
