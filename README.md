@@ -9,7 +9,7 @@ A specification for representing arguments in a standardized format.
 
 ## Motivation
 
-Today's world is a tough environment for finding out the truth about anything. Each of us has a few pieces of the puzzle and we're left to try match them up with others around us.
+Today's world is a tough environment for finding out the truth about anything. Each of us have a few pieces of the puzzle and we're left to try match them up with others around us.
 
 People in general are under time constraints and lack good tools for collaboratively debating topics. Discussions on social media are mostly noise and it is easy to skip accountability by obfuscating the truth.
 
@@ -27,10 +27,10 @@ What we need is a clear way of defining arguments that can then be shared, forke
 ## Potential applications of use
 
 - official government statements - presenting arguments for policy change
-- news media - explaining current events without rhetoric and fake news
+- news media - backing up claims made in reports with solid arguments and evidence. It will make it easier to weed out fake news sources
 - fact-checking - analyzing arguments made by others and holding them accountable
 - scientific theses - formalizing the format of academic and scientific papers
-- conspiracies - legitimizing conspiracy theories and assessing their truthfulness
+- conspiracies - legitimizing theories and assessing their truthfulness
 - knowledge sharing - over time building a body of knowledge that future generations can digest easily and learn from
 - legal - cases can be built and put forward in a standardized way
 
