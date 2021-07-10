@@ -38,20 +38,17 @@ What we need is a clear way of defining arguments that can then be shared, forke
 
 ```
 {
-  type: 'argument',
-  value: 'Aliens exist',
-  for: [
+  argument: 'Aliens exist',
+  supportingArguments: [
     {
-      type: 'argument',
-      value: 'There was a crash at Roswell',
+      argument: 'There was a crash at Roswell',
       ...
     },
     ...
   ],
-  against: [
+  opposingArguments: [
     {
-      type: 'argument',
-      value: 'There is no official evidence for aliens.',
+      argument: 'There is no official evidence for aliens.',
       ...
     },
   ],
@@ -60,5 +57,6 @@ What we need is a clear way of defining arguments that can then be shared, forke
   ],
   author: ...,
   version: ...,
+  ...
 }
 ```
