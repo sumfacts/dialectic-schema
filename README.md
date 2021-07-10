@@ -2,8 +2,8 @@
 
 A specification for representing arguments in a standardized format.
 
-> Dialectic is a discourse between two or more people holding different points of view about a subject but wishing to establish the truth through reasoned argumentation."
-> -[ Wikipedia](https://en.wikipedia.org/wiki/Dialectic)
+> Dialectic is a method of examining and discussing opposing ideas in order to find the truth."
+> -[ Merriam-Webster Dictionary](https://www.merriam-webster.com/dictionary/dialectic)
 
 **Project status**: proof of concept
 
